@@ -1,0 +1,6 @@
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.csprojAssemblyReference.cache
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.SISTEMAABC.resources
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.Form2.resources
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.Properties.Resources.resources
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.csproj.GenerateResource.cache
+C:\Users\jean.cnnunes\Documents\Repositorios\Agenda\Login\SistemaAgenda\obj\x64\SistemaAgenda.csproj.CoreCompileInputs.cache
